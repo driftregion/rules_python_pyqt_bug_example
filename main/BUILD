@@ -7,6 +7,6 @@ py_binary(
         "main.py"
     ],
     deps=[
-        requirement("PyQt6"),
+        requirement("pygame"),
     ],
 )
